@@ -13,5 +13,5 @@
   debugging – they allow you to view current style values, toggle rules, and test different 
   rule values.
   
- # My solution: 
+ # My solution's live version: https://ahman502.github.io/Fotomat/ 
   
