@@ -13,5 +13,12 @@
   debugging – they allow you to view current style values, toggle rules, and test different 
   rule values.
   
- # My solution's live version: https://ahman502.github.io/Fotomat/ 
+ # My solution's live version:
+ https://ahman502.github.io/Fotomat/ 
+ 
+ All the changes I made can be found in index.html and style.css files. Index.html file is 
+ available inside the repository whereas you can fins the css file in resources -> css -> style.css. 
+ PLEASE READ THE COMMENTS IN THESE FILES as they are as descriptive as I could make them, and I have also explained 
+ where I have made the changes, how they will affect the page, and I also made the code simpler to 
+ understand (at least for me). 
   
